@@ -24,3 +24,5 @@ __pycache__/
 
 # Linux trash directories
 .Trash-*/
+
+data/
