@@ -71,4 +71,4 @@ LEFT JOIN
 ON 
     droute.route = droute_descr.cd
 WHERE
-    vtm.id IN (783692006, 774624002, 777455008)
+    vtm.id IN (783692006)
