@@ -6,14 +6,26 @@ SELECT
     scmd_table.SCMD_quantity_basis,
     scmd_table.dose_quantity,
     scmd_table.dose_unit,
-    ods.ods_code AS ods_code, 
-    ods.ods_name AS ods_name,
-    ods.region AS region,
+    CASE
+        WHEN ods.successor_ods_code IS NOT NULL AND ods.successor_ods_code != 'None'
+        THEN ods.successor_ods_code
+        ELSE ods.ods_code
+    END AS ods_code,
+    CASE
+        WHEN ods.successor_ods_code IS NOT NULL AND ods.successor_ods_code != 'None'
+        THEN successor_org.ods_name
+        ELSE ods.ods_name
+    END AS ods_name,
+    ods.region AS region
 FROM 
     scmd.dose AS scmd_table
 LEFT JOIN 
     scmd.ods_mapped AS ods
 ON 
     scmd_table.ods_code = ods.ods_code
+LEFT JOIN
+    scmd.ods_mapped AS successor_org
+ON
+    ods.successor_ods_code = successor_org.ods_code
 WHERE
     scmd_table.vmp_code in (37454211000001101)
