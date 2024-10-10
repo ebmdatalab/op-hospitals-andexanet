@@ -29,3 +29,4 @@ ON
     ods.successor_ods_code = successor_org.ods_code
 WHERE
     scmd_table.vmp_code in (37454211000001101)
+    AND scmd_table.year_month >= '2021-05-01'
