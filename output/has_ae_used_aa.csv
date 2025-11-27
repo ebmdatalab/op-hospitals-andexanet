@@ -1,0 +1,209 @@
+ods_code,ods_name,has_ae_last_six_months,used_aa
+RVN,Avon And Wiltshire Mental Health Partnership NHS Trust,False,False
+RWX,Berkshire Healthcare NHS Foundation Trust,False,False
+RXT,Birmingham And Solihull Mental Health NHS Foundation Trust,False,False
+RYW,Birmingham Community Healthcare NHS Foundation Trust,False,False
+TAJ,Black Country Healthcare NHS Foundation Trust,False,False
+TAD,Bradford District Care NHS Foundation Trust,False,False
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,False,False
+RT1,Cambridgeshire And Peterborough NHS Foundation Trust,False,False
+RYV,Cambridgeshire Community Services NHS Trust,False,False
+RV3,Central And North West London NHS Foundation Trust,False,False
+RYX,Central London Community Healthcare NHS Trust,False,False
+RXA,Cheshire And Wirral Partnership NHS Foundation Trust,False,False
+RJ8,Cornwall Partnership NHS Foundation Trust,False,False
+RYG,Coventry And Warwickshire Partnership NHS Trust,False,False
+RX4,"Cumbria, Northumberland, Tyne And Wear NHS Foundation Trust",False,False
+RY8,Derbyshire Community Health Services NHS Foundation Trust,False,False
+RXM,Derbyshire Healthcare NHS Foundation Trust,False,False
+RWV,Devon Partnership NHS Trust,False,False
+RDY,Dorset Healthcare University NHS Foundation Trust,False,False
+RYK,Dudley Integrated Health And Care NHS Trust,False,False
+RWK,East London NHS Foundation Trust,False,False
+RX9,East Midlands Ambulance Service NHS Trust,False,False
+RYC,East Of England Ambulance Service NHS Trust,False,False
+R1L,Essex Partnership University NHS Foundation Trust,False,False
+RTQ,Gloucestershire Health And Care NHS Foundation Trust,False,False
+RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,False,False
+RXV,Greater Manchester Mental Health NHS Foundation Trust,False,False
+RW1,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,False,False
+R1A,Herefordshire And Worcestershire Health And Care NHS Trust,False,False
+RY4,Hertfordshire Community NHS Trust,False,False
+RWR,Hertfordshire Partnership University NHS Foundation Trust,False,False
+RV9,Humber Teaching NHS Foundation Trust,False,False
+RXY,Kent And Medway NHS And Social Care Partnership Trust,False,False
+RYY,Kent Community Health NHS Foundation Trust,False,False
+RW5,Lancashire & South Cumbria NHS Foundation Trust,False,False
+RGD,Leeds And York Partnership NHS Foundation Trust,False,False
+RY6,Leeds Community Healthcare NHS Trust,False,False
+RT5,Leicestershire Partnership NHS Trust,False,False
+RY5,Lincolnshire Community Health Services NHS Trust,False,False
+RP7,Lincolnshire Partnership NHS Foundation Trust,False,False
+RBQ,Liverpool Heart And Chest Hospital NHS Foundation Trust,False,False
+REP,Liverpool Women's NHS Foundation Trust,False,False
+RRU,London Ambulance Service NHS Trust,False,False
+RW4,Mersey Care NHS Foundation Trust,False,False
+RRE,Midlands Partnership University NHS Foundation Trust,False,False
+RP6,Moorfields Eye Hospital NHS Foundation Trust,False,False
+RMY,Norfolk And Suffolk NHS Foundation Trust,False,False
+RY3,Norfolk Community Health And Care NHS Trust,False,False
+RX6,North East Ambulance Service NHS Foundation Trust,False,False
+RAT,North East London NHS Foundation Trust,False,False
+G6V2S,North London NHS Foundation Trust,False,False
+RLY,North Staffordshire Combined Healthcare NHS Trust,False,False
+RX7,North West Ambulance Service NHS Trust,False,False
+RP1,Northamptonshire Healthcare NHS Foundation Trust,False,False
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,False,False
+RNU,Oxford Health NHS Foundation Trust,False,False
+RPG,Oxleas NHS Foundation Trust,False,False
+RT2,Pennine Care NHS Foundation Trust,False,False
+R0C,Project Nightingale NHS Trust,False,False
+RPC,Queen Victoria Hospital NHS Foundation Trust,False,False
+RXE,Rotherham Doncaster And South Humber NHS Foundation Trust,False,False
+RAN,Royal National Orthopaedic Hospital NHS Trust,False,False
+RGM,Royal Papworth Hospital NHS Foundation Trust,False,False
+TAH,Sheffield Health & Social Care NHS Foundation Trust,False,False
+R1D,Shropshire Community Health NHS Trust,False,False
+RYE,South Central Ambulance Service NHS Foundation Trust,False,False
+RYD,South East Coast Ambulance Service NHS Foundation Trust,False,False
+RV5,South London And Maudsley NHS Foundation Trust,False,False
+RYQ,South London Healthcare NHS Trust,False,False
+RQY,South West London And St George's Mental Health NHS Trust,False,False
+RXG,South West Yorkshire Partnership NHS Foundation Trust,False,False
+RYF,South Western Ambulance Service NHS Foundation Trust,False,False
+RXX,Surrey And Borders Partnership NHS Foundation Trust,False,False
+RDR,Sussex Community NHS Foundation Trust,False,False
+RX2,Sussex Partnership NHS Foundation Trust,False,False
+RNK,Tavistock And Portman NHS Foundation Trust,False,False
+RX3,"Tees, Esk And Wear Valleys NHS Foundation Trust",False,False
+RBV,The Christie NHS Foundation Trust,False,False
+REN,The Clatterbridge Cancer Centre NHS Foundation Trust,False,False
+RL1,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,False,False
+RPY,The Royal Marsden NHS Foundation Trust,False,False
+RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,False,False
+RET,The Walton Centre NHS Foundation Trust,False,False
+RKL,West London NHS Trust,False,False
+RYA,West Midlands Ambulance Service University NHS Foundation Trust,False,False
+RY7,Wirral Community Health And Care NHS Foundation Trust,False,False
+RX8,Yorkshire Ambulance Service NHS Trust,False,False
+RCF,Airedale NHS Foundation Trust,True,True
+RBS,Alder Hey Children's NHS Foundation Trust,True,False
+RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,True,True
+RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust",True,True
+RFF,Barnsley Hospital NHS Foundation Trust,True,True
+R1H,Barts Health NHS Trust,True,True
+RC9,Bedfordshire Hospitals NHS Foundation Trust,True,True
+RQ3,Birmingham Women's And Children's NHS Foundation Trust,True,False
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,True,True
+RMC,Bolton NHS Foundation Trust,True,True
+RAE,Bradford Teaching Hospitals NHS Foundation Trust,True,True
+RXQ,Buckinghamshire Healthcare NHS Trust,True,True
+RWY,Calderdale And Huddersfield NHS Foundation Trust,True,True
+RGT,Cambridge University Hospitals NHS Foundation Trust,True,True
+RQM,Chelsea And Westminster Hospital NHS Foundation Trust,True,True
+RFS,Chesterfield Royal Hospital NHS Foundation Trust,True,True
+RJR,Countess Of Chester Hospital NHS Foundation Trust,True,True
+RXP,County Durham And Darlington NHS Foundation Trust,True,True
+RJ6,Croydon Health Services NHS Trust,True,True
+RN7,Dartford And Gravesham NHS Trust,True,True
+RP5,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,True,True
+RBD,Dorset County Hospital NHS Foundation Trust,True,True
+RWH,East And North Hertfordshire Teaching NHS Trust,True,True
+RJN,East Cheshire NHS Trust,True,True
+RVV,East Kent Hospitals University NHS Foundation Trust,True,True
+RXR,East Lancashire Hospitals NHS Trust,True,True
+RDE,East Suffolk And North Essex NHS Foundation Trust,True,True
+RXC,East Sussex Healthcare NHS Trust,True,True
+RVR,Epsom And St Helier University Hospitals NHS Trust,True,True
+RDU,Frimley Health NHS Foundation Trust,True,True
+RR7,Gateshead Health NHS Foundation Trust,True,True
+RLT,George Eliot Hospital NHS Trust,True,True
+RTE,Gloucestershire Hospitals NHS Foundation Trust,True,True
+RN3,Great Western Hospitals NHS Foundation Trust,True,True
+RJ1,Guy's And St Thomas' NHS Foundation Trust,True,True
+RN5,Hampshire Hospitals NHS Foundation Trust,True,True
+RCD,Harrogate And District NHS Foundation Trust,True,True
+RQX,Homerton Healthcare NHS Foundation Trust,True,False
+RWA,Hull University Teaching Hospitals NHS Trust,True,True
+RYJ,Imperial College Healthcare NHS Trust,True,True
+R1F,Isle Of Wight NHS Trust,True,True
+RGP,James Paget University Hospitals NHS Foundation Trust,True,True
+RNQ,Kettering General Hospital NHS Foundation Trust,True,True
+RJZ,King's College Hospital NHS Foundation Trust,True,True
+RAX,Kingston And Richmond NHS Foundation Trust,True,True
+RXN,Lancashire Teaching Hospitals NHS Foundation Trust,True,True
+RR8,Leeds Teaching Hospitals NHS Trust,True,True
+RJ2,Lewisham And Greenwich NHS Trust,True,True
+REM,Liverpool University Hospitals NHS Foundation Trust,True,True
+R1K,London North West University Healthcare NHS Trust,True,True
+RWF,Maidstone And Tunbridge Wells NHS Trust,True,True
+R0A,Manchester University NHS Foundation Trust,True,True
+RPA,Medway NHS Foundation Trust,True,True
+RBN,Mersey And West Lancashire Teaching Hospitals NHS Trust,True,True
+RAJ,Mid And South Essex NHS Foundation Trust,True,True
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,True,True
+RXF,Mid Yorkshire Teaching NHS Trust,True,True
+RD8,Milton Keynes University Hospital NHS Foundation Trust,True,True
+RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust,True,True
+RVJ,North Bristol NHS Trust,True,True
+RNN,North Cumbria Integrated Care NHS Foundation Trust,True,True
+RVW,North Tees And Hartlepool NHS Foundation Trust,True,True
+RGN,North West Anglia NHS Foundation Trust,True,True
+RNS,Northampton General Hospital NHS Trust,True,True
+RM3,Northern Care Alliance NHS Foundation Trust,True,True
+RJL,Northern Lincolnshire And Goole NHS Foundation Trust,True,True
+RTF,Northumbria Healthcare NHS Foundation Trust,True,True
+RX1,Nottingham University Hospitals NHS Trust,True,True
+RTH,Oxford University Hospitals NHS Foundation Trust,True,True
+RHU,Portsmouth Hospitals University NHS Trust,True,True
+RHW,Royal Berkshire NHS Foundation Trust,True,True
+REF,Royal Cornwall Hospitals NHS Trust,True,True
+RH8,Royal Devon University Healthcare NHS Foundation Trust,True,True
+RAL,Royal Free London NHS Foundation Trust,True,True
+RA2,Royal Surrey NHS Foundation Trust,True,True
+RD1,Royal United Hospitals Bath NHS Foundation Trust,True,True
+RNZ,Salisbury NHS Foundation Trust,True,True
+RXK,Sandwell And West Birmingham Hospitals NHS Trust,True,True
+RCU,Sheffield Children's NHS Foundation Trust,True,False
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,True,True
+RK5,Sherwood Forest Hospitals NHS Foundation Trust,True,True
+RH5,Somerset NHS Foundation Trust,True,True
+RTR,South Tees Hospitals NHS Foundation Trust,True,True
+R0B,South Tyneside And Sunderland NHS Foundation Trust,True,True
+RJC,South Warwickshire University NHS Foundation Trust,True,True
+RJ7,St George's University Hospitals NHS Foundation Trust,True,True
+RWJ,Stockport NHS Foundation Trust,True,True
+RTP,Surrey And Sussex Healthcare NHS Trust,True,True
+RMP,Tameside And Glossop Integrated Care NHS Foundation Trust,True,True
+RNA,The Dudley Group NHS Foundation Trust,True,True
+RAS,The Hillingdon Hospitals NHS Foundation Trust,True,True
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,True,True
+RQW,The Princess Alexandra Hospital NHS Trust,True,True
+RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",True,True
+RFR,The Rotherham NHS Foundation Trust,True,True
+RL4,The Royal Wolverhampton NHS Trust,True,True
+RXW,The Shrewsbury And Telford Hospital NHS Trust,True,True
+RA9,Torbay And South Devon NHS Foundation Trust,True,True
+RWD,United Lincolnshire Teaching Hospitals NHS Trust,True,True
+RRV,University College London Hospitals NHS Foundation Trust,True,True
+RHM,University Hospital Southampton NHS Foundation Trust,True,True
+RRK,University Hospitals Birmingham NHS Foundation Trust,True,True
+RA7,University Hospitals Bristol And Weston NHS Foundation Trust,True,True
+RKB,University Hospitals Coventry And Warwickshire NHS Trust,True,True
+R0D,University Hospitals Dorset NHS Foundation Trust,True,True
+RTG,University Hospitals Of Derby And Burton NHS Foundation Trust,True,True
+RWE,University Hospitals Of Leicester NHS Trust,True,True
+RTX,University Hospitals Of Morecambe Bay NHS Foundation Trust,True,True
+RJE,University Hospitals Of North Midlands NHS Trust,True,True
+RK9,University Hospitals Plymouth NHS Trust,True,True
+RYR,University Hospitals Sussex NHS Foundation Trust,True,True
+RBK,Walsall Healthcare NHS Trust,True,True
+RWW,Warrington And Halton Teaching Hospitals NHS Foundation Trust,True,True
+RWG,West Hertfordshire Teaching Hospitals NHS Trust,True,True
+RGR,West Suffolk NHS Foundation Trust,True,True
+RKE,Whittington Health NHS Trust,True,True
+RBL,Wirral University Teaching Hospital NHS Foundation Trust,True,True
+RWP,Worcestershire Acute Hospitals NHS Trust,True,True
+RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust",True,True
+RLQ,Wye Valley NHS Trust,True,True
+RCB,York And Scarborough Teaching Hospitals NHS Foundation Trust,True,True
